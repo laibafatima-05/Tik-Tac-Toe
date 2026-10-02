@@ -1,4 +1,4 @@
-## 🎮 Tik Tac Toe
+## 🎮 Tik Tac Toe Game
 
 ## 📌 Project Overview
 
