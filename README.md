@@ -1,4 +1,4 @@
-## 🎮 Tic Tac Toe
+## 🎮 Tik Tac Toe
 
 ## 📌 Project Overview
 
